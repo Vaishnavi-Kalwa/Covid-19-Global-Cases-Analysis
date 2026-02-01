@@ -110,10 +110,4 @@ Support policy decisions and healthcare resource allocation
 
 Enable clear communication of pandemic severity through visual storytelling
 
-# Value Delivered
 
-Converted complex pandemic data into clear, decision-ready insights
-
-Enabled region-wise and country-level comparison at a glance
-
-Demonstrated strong skills in KPI design, geographic analysis, and dashboard storytelling
