@@ -1,28 +1,49 @@
 # Covid-19-Global-Cases-Analysis
-# Introduction
+# Project Impact
 
-This project provides a comprehensive analysis of global COVID-19 cases, focusing on confirmed cases, recoveries, deaths, and regional distribution. The dashboard is designed to present complex pandemic data in a clear and visual manner, enabling users to quickly understand trends, regional impact, and severity across countries.
+Developed an interactive global COVID-19 analytics dashboard to track confirmed cases, recoveries, deaths, and regional trends. The project transforms large-scale pandemic data into actionable insights, enabling public health analysts and decision-makers to assess severity, monitor growth patterns, and identify high-risk regions.
 
-# Objective
-The objective of this analysis is to support public health analysts, researchers, and decision-makers by:
+# Business / Public Health Objective
 
-Monitoring global COVID-19 confirmed cases, recoveries, and deaths
+This analysis supports public health monitoring and strategic response planning by:
 
-Understanding region-wise distribution of new cases, new deaths, and recoveries
+Tracking global confirmed cases, recoveries, deaths, and active cases
 
-Identifying countries with the highest death rates
+Understanding region-wise distribution of new cases, deaths, and recoveries
 
-Tracking week-over-week changes in case growth
+Identifying countries with the highest COVID-19 death rates
 
-Providing a geographical view of recovered cases worldwide
+Monitoring week-over-week (WoW) growth trends
 
-# Description
+Visualizing geographical recovery patterns worldwide
 
-The dashboard visualizes global COVID-19 data using multiple analytical perspectives:
+# Data Overview
 
-Global map visualization showing the distribution of recovered COVID-19 cases
+The dataset contains global COVID-19 case data aggregated at country and regional levels, including:
 
-Region-wise comparison of:
+Confirmed Cases
+
+Recovered Cases
+
+Deaths
+
+Active Cases
+
+New Cases, New Deaths, New Recoveries
+
+Weekly growth metrics
+
+# Tools & Technologies
+
+Tableau – Interactive dashboards, KPIs, and geographic visualizations
+
+Microsoft Excel – Data sourcing, cleaning, and preparation
+
+# Dashboard Features
+
+Global Map displaying country-wise recovered COVID-19 cases
+
+Region-wise Comparison of:
 
 New cases
 
@@ -30,11 +51,11 @@ New deaths
 
 New recoveries
 
-Top 5 most affected countries by death rate (%)
+Top 5 Countries by Death Rate (%)
 
-KPI indicators highlighting:
+Key KPI Indicators:
 
-Average weekly increase (week-over-week change)
+Average weekly increase (WoW growth)
 
 Total confirmed cases
 
@@ -42,13 +63,14 @@ Total deaths
 
 Total active cases
 
-The visuals are designed for easy interpretation and comparative analysis across regions and countries.
+All visuals are designed for quick interpretation and cross-region comparison.
 
 # Key Insights
+Global Growth Trend
 
-Average Weekly Increase (WoW): 13.61%, indicating a rising trend in global cases during the observed period
+Average Weekly Increase (WoW): 13.61%, indicating a rising global infection trend during the analyzed period.
 
-Global COVID-19 Impact:
+Global COVID-19 Impact
 
 Confirmed Cases: 16.48 million
 
@@ -56,25 +78,42 @@ Recovered Cases: 6.36 million
 
 Deaths: 654.04K
 
-Regional Distribution:
+This highlights the large global burden and the importance of continuous monitoring.
 
-The Americas and Europe show higher numbers of new cases and recoveries compared to other regions
+Regional Distribution
 
-Africa and the Western Pacific report comparatively lower case counts
+The Americas and Europe report the highest numbers of new cases and recoveries.
 
-Global Death Rate – Top 5 Countries:
+Africa and the Western Pacific show comparatively lower case counts, indicating regional variation in spread and reporting.
 
-United States: 41%
+Countries with Highest Death Rates
 
-Brazil: 24%
+Top contributors to global COVID-19 deaths include:
 
-United Kingdom: 13%
+United States – 41%
 
-Italy: 10%
-These countries account for a significant share of global COVID-19 deaths.
+Brazil – 24%
 
-# Tools & Technologies
+United Kingdom – 13%
 
-Tableau – Interactive dashboards and visual analytics
+Italy – 10%
 
-Excel – Data sourcing and preparation
+These countries represent a significant share of global mortality, highlighting areas requiring focused interventions.
+
+# Practical Use Cases
+
+Identify high-risk countries and regions for targeted health responses
+
+Track week-over-week growth to assess outbreak acceleration or control
+
+Support policy decisions and healthcare resource allocation
+
+Enable clear communication of pandemic severity through visual storytelling
+
+# Value Delivered
+
+Converted complex pandemic data into clear, decision-ready insights
+
+Enabled region-wise and country-level comparison at a glance
+
+Demonstrated strong skills in KPI design, geographic analysis, and dashboard storytelling
